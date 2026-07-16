@@ -1,0 +1,23 @@
+
+
+# Hygiene (added by automated audit)
+# Environment
+.env
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+# macOS
+.DS_Store
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+# Build
+dist/
+build/
+*.egg/
